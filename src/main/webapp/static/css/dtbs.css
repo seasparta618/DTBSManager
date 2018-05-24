@@ -1,0 +1,95 @@
+button[disabled] {
+      cursor: default;
+    color: gray
+}
+.tg {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border-color: #bbb;
+}
+
+.tg td {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	padding: 10px 5px;
+	border-style: solid;
+	border-width: 1px;
+	overflow: hidden;
+	word-break: normal;
+	border-color: #bbb;
+	color: #594F4F;
+	background-color: #E0FFEB;
+}
+
+.tg th {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	padding: 10px 5px;
+	border-style: solid;
+	border-width: 1px;
+	overflow: hidden;
+	word-break: normal;
+	border-color: #bbb;
+	color: #493F3F;
+	background-color: #9DE0AD;
+}
+
+.tg .tg-cuvh {
+	background-color: #e0ffeb;
+	vertical-align: top
+}
+
+.tg .tg-baqh {
+	text-align: center;
+	vertical-align: top
+}
+
+.tg .tg-vk7f {
+	background-color: #e0ffeb;
+	text-align: center;
+	vertical-align: top
+}
+
+.tg .tg-rmb8 {
+	background-color: #C2FFD6;
+	vertical-align: top
+}
+
+.tg .tg-lqy6 {
+	text-align: right;
+	vertical-align: top
+}
+
+.tg .tg-yw4l {
+	vertical-align: top
+}
+
+.tg .tg-cc5g {
+	background-color: #e0ffeb;
+	text-align: right;
+	vertical-align: top
+}
+
+.toDisplayNon {
+	display: none;
+}
+
+rect.bordered {
+	stroke: #E6E6E6;
+	stroke-width: 2px;
+}
+
+text.mono {
+	font-size: 9pt;
+	font-family: Consolas, courier;
+	fill: #aaa;
+}
+
+text.axis-workweek {
+	fill: #000;
+}
+
+text.axis-worktime {
+	fill: #000;
+}
